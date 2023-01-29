@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraphql_3_d=self.webpackChunkgraphql_3_d||[]).push([[8765],{5661:e=>{e.exports=JSON.parse('{"permalink":"/graphql-3d/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
