@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgraphql_3_d=self.webpackChunkgraphql_3_d||[]).push([[3237],{3808:(e,l,n)=>{n.r(l),n.d(l,{default:()=>u});var r=n(7294),t=(n(9960),n(2263));function u(){const{siteConfig:e}=(0,t.Z)();return r.createElement("h1",null,"hello world")}}}]);
